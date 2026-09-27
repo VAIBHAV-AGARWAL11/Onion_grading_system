@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+.env
+.venv
+
+# YOLO and Datasets
+runs/
+weights/
+*.pt
+*.onnx
+*.engine
+*.pb
+*.h5
+
+# Specific folders for this project
+Onion Grading.v7i.yolov11/
+Onion detection.v1i.yolov11/
+bad onion.v1-bad-onion.yolov11/
+veg1-hcqsf-2.v4-demo_model.yolov11/
+merged_defect_dataset/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo

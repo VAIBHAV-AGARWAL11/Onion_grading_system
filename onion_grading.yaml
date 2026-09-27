@@ -1,0 +1,11 @@
+path: d:/AgriNovaa/Onion Grading.v7i.yolov11
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+names:
+  0: Class 1
+  1: Class 2
+  2: Extra Class
+  3: Reject

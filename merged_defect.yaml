@@ -1,0 +1,6 @@
+train: d:/AgriNovaa/merged_defect_dataset/train/images
+val: d:/AgriNovaa/merged_defect_dataset/valid/images
+test: d:/AgriNovaa/merged_defect_dataset/test/images
+
+nc: 4
+names: ['double_split', 'onion', 'rotten', 'sprout']
