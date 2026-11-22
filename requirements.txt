@@ -4,4 +4,4 @@ torchvision>=0.20.1
 streamlit>=1.30.0
 Pillow>=10.0.0
 numpy<2.0.0
-opencv-python>=4.11.0
+opencv-python-headless>=4.11.0

@@ -29,6 +29,7 @@ venv/
 runs/
 weights/
 *.pt
+!models/*.pt
 *.onnx
 *.engine
 *.pb
@@ -42,6 +43,7 @@ veg1-hcqsf-2.v4-demo_model.yolov11/
 merged_defect_dataset/
 
 # IDEs
+.DS_Store
 .idea/
 .vscode/
 *.swp
